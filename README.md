@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Software Developer </h3>
+<h3 align="left">Software Developer  C ++</h3>
 
 ###
 
@@ -23,10 +23,13 @@
 
 ###
 
+<h3 align="left"></>  Skills</h3>
+
+###
+
 <br clear="both">
 
 <div align="left">
-  <h3> </> Skills </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -42,6 +45,8 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
