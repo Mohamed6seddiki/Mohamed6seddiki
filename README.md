@@ -22,9 +22,9 @@
 </div>
 
 ###
-
+<hr>
 <h3 align="left"></>  Skills</h3>
-
+<hr>
 ###
 
 <br clear="both">
@@ -50,7 +50,7 @@
 </div>
 
 ###
-
+<hr>
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Mohamed6seddiki/Mohamed6seddiki/output/snake.svg" alt="Snake animation" />
