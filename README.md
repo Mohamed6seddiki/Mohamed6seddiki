@@ -42,13 +42,15 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="15" />
+  <img  src="https://camo.githubusercontent.com/e30ece021e61bedec2c7a9868b1df7f4704333cea4a7094c95f3a3d2a02f9cfd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417373656d626c792d3532353235323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d7768697465" height="40" alt="cplusplus logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  
+
   
 </div>
 
