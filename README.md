@@ -42,16 +42,17 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="15" />
-  <img  src="https://camo.githubusercontent.com/e30ece021e61bedec2c7a9868b1df7f4704333cea4a7094c95f3a3d2a02f9cfd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417373656d626c792d3532353235323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d7768697465" height="40" alt="cplusplus logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  
+  <img width="15" />
+  <img src="https://camo.githubusercontent.com/6dccce9d61a50b6cdbf7ac09ea33b68fdd8d05b7a3575d15ab6505196bc1c55a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697375616c73747564696f" height="40" alt="vscode logo"  />
+    <img width="15" />
+  <img src="https://camo.githubusercontent.com/5233e2fc0685dda583a1542317129f35d3160606242891c77f2809fdbca3e92b/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f646f746e65742f353132424434" height="40" alt=".NET"  />
 
-  
+  <img src="https://camo.githubusercontent.com/0efc64e37dd0f93a3c27ea684cb918e90307e1fd720f46cf9c6b2635aaadedbf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" height="40" alt=".NET"  />
 </div>
 
 ###
