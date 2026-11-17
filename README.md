@@ -1,83 +1,130 @@
-<h2 align="left">Hi 👋! My name is Mohamed and I'am   cs  student  🖥️</h2>
+<!-- HEADER -->
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff88&height=220&section=header&text=Mohamed%20Seddiki&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20%7C%20CTF%20Player&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
 
-<h3 align="left">Software Developer  C ++</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=root%40root%3A~%23+whoami;3rd-Year+Software+Engineering+%40+USTHB;Cryptography+%7C+Web+Security+%7C+Linux;Build.+Break.+Understand.+Secure." alt="Typing SVG" />
+</a>
 
-###
+<br/>
 
-<h4 align="left">⚙️💻 ₊˚.🎧📓✩</h4>
+![Location](https://img.shields.io/badge/Algeria-000000?style=for-the-badge&logo=googlemaps&logoColor=00ff88)
+![USTHB](https://img.shields.io/badge/USTHB-Software_Engineering-000000?style=for-the-badge&logoColor=00ff88)
+![CTF](https://img.shields.io/badge/CTF-Player-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff88)
+![Status](https://img.shields.io/badge/status-learning_%26_hacking-00ff88?style=for-the-badge)
 
-###
+</div>
 
-<br clear="both">
+---
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFxcXFvdW55YXhwNjZyeG96bXNwYXIxcmk3YjZuNXZvNDJzbHJieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o8lJdJ4j6uWYDASnCO/giphy.gif"  />
+## `> whoami`
 
-###
+```bash
+$ cat about.txt
+name       : Mohamed Seddiki
+education  : Software Engineering @ USTHB, Algiers (3rd year)
+previously : ESTIN Béjaïa (2 years of preparatory engineering studies)
+role       : Software Developer | Cybersecurity Enthusiast | CTF Player
+location   : Algeria 🇩🇿
+motto      : "Build. Break. Understand. Secure."
+```
+
+- 💻 Interested in **software development**, **system programming** and **cybersecurity**
+- 🔐 Exploring **ethical hacking**, **cryptography**, **reverse engineering** and **web security**
+- 🚀 Developer, club contributor and technology enthusiast
+
+---
+
+## `> ls ~/skills`
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,js,ts,java,php" height="42" />
+
+**Development & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=react,vite,dotnet,laravel,html,css,supabase" height="42" />
+
+**Tools & Environments**
+
+<img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,kali,git,github,vscode,visualstudio,bash" height="42" />
+
+---
+
+## `> ./projects`
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| **MyAlgo** | A C++ interpreter for a custom `.algo` programming language. | `C++` |
+| **AlgoNova** | An educational platform for learning algorithms and programming. | `React` `TypeScript` `ASP.NET Core` `Supabase` |
+| **Radio Algérie Directory** | Web application built during my development internship at Radio Algérie. | `Laravel` `PHP` |
+
+---
+
+## `> cat cybersecurity.md`
+
+I'm passionate about understanding vulnerabilities, analyzing systems and solving technical challenges.
+
+| Area | Focus |
+|:---|:---|
+| 🔑 **Cryptography** | Classical & modern ciphers, CTF crypto challenges |
+| 🌐 **Web Security** | Common web vulnerabilities and how to exploit and fix them |
+| 🔍 **Reverse Engineering** | Understanding how programs work under the hood |
+| 📡 **Network Security** | Protocols, traffic analysis, defense |
+| 🐧 **Linux & System Security** | Hardening, privilege, shell skills |
+| 🧩 **Digital Forensics** | Investigating artifacts and files |
+
+### 🏴‍☠️ CTF Experience
+
+- 🏆 **8th place** with my team in a CTF competition
+- 🧠 Challenges: Cryptography, Misc, PDF Reverse Engineering and Blockchain
+- 🎯 Participated in **NextRace CTF** and **INGEHack 5.0 CTF** and **INGEHack mini ctf**
+- 💻 Participated in the **DECODE Hackathon**
+
+---
+
+## `> history | tail`
+
+- **Radio Algérie**: Web Development Internship (online directory application)
+- **Gephyra Club**: Development Manager and contributor to technical and organizational activities
+- **Gephyra Club**: Web Development workshop instructor
+- **Sponsorship Management**: Helped organize and manage sponsorship activities
+
+---
+
+## `> ./stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed6seddiki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed6seddiki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed6seddiki&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&bg_color=0d1117&border_color=00ff88&hide_border=false" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed6seddiki&layout=compact&langs_count=6&theme=dark&title_color=00ff88&text_color=c9d1d9&bg_color=0d1117&border_color=00ff88&hide_border=false" height="170" alt="Top languages" />
 </div>
-
-###
-
-<h3 align="left"></>  Skills</h3>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://camo.githubusercontent.com/6dccce9d61a50b6cdbf7ac09ea33b68fdd8d05b7a3575d15ab6505196bc1c55a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697375616c73747564696f" height="40" alt="vscode logo"  />
-    <img width="15" />
-  <img src="https://camo.githubusercontent.com/5233e2fc0685dda583a1542317129f35d3160606242891c77f2809fdbca3e92b/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f646f746e65742f353132424434" height="40" alt=".NET"  />
-
-  <img src="https://camo.githubusercontent.com/0efc64e37dd0f93a3c27ea684cb918e90307e1fd720f46cf9c6b2635aaadedbf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" height="40" alt=".NET"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mohamed6seddiki/Mohamed6seddiki/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-seddiki-55b8a6371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/583W5kmB" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/moh_sed5?igsh=MzJzbTE0YWZoajB4" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/Moh_sed_5" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Mohamed6seddiki&theme=dark&background=0D1117&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&border=00FF88&hide_border=false" height="170" alt="GitHub streak" />
 </div>
 
-###
+### 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mohamed6seddiki/Mohamed6seddiki/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## `> nc connect`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohamed-seddiki-55b8a6371/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff88" alt="LinkedIn" /></a>
+<a href="https://discord.gg/583W5kmB"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00ff88" alt="Discord" /></a>
+<a href="https://www.instagram.com/moh_sed5/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff88" alt="Instagram" /></a>
+<a href="https://t.me/Moh_sed_5"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88" alt="Telegram" /></a>
+
+<br/><br/>
+
+<i>"Build. Break. Understand. Secure."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:000000&height=120&section=footer" alt="footer" />
+
+</div>
