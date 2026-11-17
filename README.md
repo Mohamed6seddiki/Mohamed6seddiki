@@ -118,7 +118,7 @@ I'm passionate about understanding vulnerabilities, analyzing systems and solvin
 
 <a href="https://www.linkedin.com/in/mohamed-seddiki-55b8a6371/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff88" alt="LinkedIn" /></a>
 <a href="https://discord.gg/583W5kmB"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00ff88" alt="Discord" /></a>
-<a href="https://www.instagram.com/moh_sed5/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff88" alt="Instagram" /></a>
+<a href="https://www.instagram.com/m0_m0h_?srtk=MWlxZjVzbzlqM282dg=="><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff88" alt="Instagram" /></a>
 <a href="https://t.me/Moh_sed_5"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88" alt="Telegram" /></a>
 
 <br/><br/>
